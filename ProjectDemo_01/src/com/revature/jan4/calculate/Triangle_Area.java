@@ -1,4 +1,4 @@
-package com.revature.calculate;
+package com.revature.jan4.calculate;
 
 import java.util.Scanner;
 

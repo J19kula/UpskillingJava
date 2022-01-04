@@ -1,4 +1,4 @@
-package com.revature.conversion;
+package com.revature.jan4.conversion;
 
 import java.util.Scanner;
 

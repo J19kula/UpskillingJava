@@ -1,10 +1,9 @@
-package com.revature.calculate;
+package com.revature.jan4.calculate;
+import java.util.*;
 
-import java.util.Scanner;
+public class Rectangle_Area {
 
-public class Rectangle_Perimeter {
-
-    public static void main(String args[]) {
+    public static void main(String args[]){
         Scanner input = new Scanner(System.in);
 
         System.out.print("Enter the length of your rectangle, Whole numbers only: ");
@@ -12,7 +11,10 @@ public class Rectangle_Perimeter {
         System.out.print("Enter the width of your rectangle, Whole numbers only: ");
         int width = input.nextInt();
 
-        int sum = 2 * (length + width);
+        int sum = (length * width);
         System.out.println("Here is the Perimeter of your rectangle: " + sum);
+
     }
+
+
 }
