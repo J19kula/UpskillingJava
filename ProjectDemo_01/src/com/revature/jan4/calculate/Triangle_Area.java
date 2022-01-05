@@ -3,7 +3,7 @@ package com.revature.jan4.calculate;
 import java.util.Scanner;
 
 public class Triangle_Area {
-    public static void main(String args[]){
+    public static void main(String[] args){
         Scanner input = new Scanner(System.in);
 
         System.out.print("Enter the base of your triangle, Whole numbers only: ");
