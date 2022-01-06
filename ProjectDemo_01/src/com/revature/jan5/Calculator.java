@@ -5,6 +5,10 @@ public class Calculator {
     private int num2;
     public static String brand;
 
+    public Calculator(){
+        System.out.println("Initializing");
+    }
+
     public void setNum1(int num1){
         if(num1 < 5){
             this.num1 =5;
