@@ -1,6 +1,8 @@
-package com.revature.jan6;
+package com.revature.jan6.inheritance;
 
-public class Manager extends Employee{
+import com.revature.jan6.inheritance.Employee;
+
+public class Manager extends Employee {
     private int qualifications;
 
     public Manager(String name, int id) {

@@ -1,7 +1,7 @@
 package com.revature;
 
-import com.revature.jan6.SimpleInheritence;
-import com.revature.jan6.SimpleInheritence2;
+import com.revature.jan6.inheritance.SimpleInheritence;
+import com.revature.jan6.inheritance.SimpleInheritence2;
 
 public class Main2 {
     public static void main(String[] args) {

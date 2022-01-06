@@ -1,4 +1,4 @@
-package com.revature.jan6;
+package com.revature.jan6.inheritance;
 
 public class SimpleInheritence {
     public void  method1(){
