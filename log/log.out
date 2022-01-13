@@ -1,0 +1,18 @@
+2022-01-12 12:24:35 DEBUG Main:13 - Intializing Array of Integers
+2022-01-12 12:24:35 DEBUG Main:19 - Instance of Integer and then add into the list
+2022-01-12 12:24:35 DEBUG Main:24 - Instantiating and adding in a single step
+2022-01-12 12:24:35 DEBUG Main:28 - Adding an int value - demo about auto-boxing
+2022-01-12 12:24:35 DEBUG Main:39 - Displaying all elements using toString
+2022-01-12 12:24:35 DEBUG Main:46 - Positional access
+2022-01-12 12:24:35 DEBUG Main:52 - Accessing using Iterator
+2022-01-12 12:30:42 DEBUG ProcessStudent:15 - ProcessStudent - process() has started
+2022-01-12 12:30:42 DEBUG ProcessStudent:17 - Trying to open input.dat file
+2022-01-12 12:30:42 DEBUG ProcessStudent:19 - Trying to open output.dat file
+2022-01-12 12:30:42 DEBUG ProcessStudent:26 - Looping through all records existing in the  input file
+2022-01-12 12:30:42 DEBUG ProcessStudent:29 - 0 position student id is 101
+2022-01-12 12:30:42 DEBUG ProcessStudent:42 - Saved 101 into output file
+2022-01-12 12:30:42 DEBUG ProcessStudent:29 - 1 position student id is 102
+2022-01-12 12:30:42 DEBUG ProcessStudent:42 - Saved 102 into output file
+2022-01-12 12:30:42 DEBUG ProcessStudent:29 - 2 position student id is 103
+2022-01-12 12:30:42 DEBUG ProcessStudent:42 - Saved 103 into output file
+2022-01-12 12:30:42 DEBUG ProcessStudent:44 - Student processing has completed
